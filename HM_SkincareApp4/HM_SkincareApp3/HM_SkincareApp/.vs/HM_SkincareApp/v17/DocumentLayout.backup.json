@@ -1,0 +1,1401 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\controllers\\collectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\controllers\\collectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\controllers\\bookmarkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\controllers\\bookmarkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\comments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\comments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\users\\publicindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\users\\publicindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\bookmarks\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\bookmarks\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\bookmarks\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\bookmarks\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\wwwroot\\js\\summernote.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\wwwroot\\js\\summernote.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\models\\bookmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\models\\bookmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\data\\migrations\\20250105214926_updateapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\data\\migrations\\20250105214926_updateapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\data\\migrations\\20241211171825_jj.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\data\\migrations\\20241211171825_jj.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\data\\migrations\\20241211155552_m790.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\data\\migrations\\20241211155552_m790.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\bookmarks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\bookmarks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\users\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\users\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\users\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\users\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\users\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\users\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\shared\\bookmarkinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\shared\\bookmarkinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\labels\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\labels\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\labels\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\labels\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\labels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\labels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\labels\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\labels\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\collections\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\collections\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\collections\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\collections\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\collections\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\collections\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\views\\bookmarks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\views\\bookmarks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\controllers\\labelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\controllers\\labelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\models\\label.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\models\\label.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\models\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\models\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\models\\bookmarkcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\models\\bookmarkcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_ArticlesApp_78b86796_c4b5_41d0_8bfa_b2fe2e27cf17/True/SqlTable/dbo.Comments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Horia\\OneDrive\\Desktop\\ArticlesAppLab10\\ArticlesApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_HM_SkincareApp_5fa70234_bd03_41cf_8f15_d3f4e350537d/True/SqlTable/dbo.Collections.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_HM_SkincareApp_5fa70234_bd03_41cf_8f15_d3f4e350537d/True/SqlTable/dbo.BookmarkCollections.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_HM_SkincareApp_5fa70234_bd03_41cf_8f15_d3f4e350537d/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_HM_SkincareApp_5fa70234_bd03_41cf_8f15_d3f4e350537d/True/SqlTable/dbo.AspNetUserTokens.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_HM_SkincareApp_5fa70234_bd03_41cf_8f15_d3f4e350537d/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\wwwroot\\images\\background.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\wwwroot\\images\\background.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Horia\\OneDrive\\Desktop\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20241223190637_mh11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Horia\\OneDrive\\Desktop\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20241223190304_mh1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_HM_SkincareApp_5fa70234_bd03_41cf_8f15_d3f4e350537d/True/SqlTable/dbo.Bookmarks.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\wwwroot\\images\\background1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\wwwroot\\images\\background1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\hm_skincareapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\hm_skincareapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\data\\migrations\\20241211171825_jj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\data\\migrations\\20241211171825_jj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\data\\migrations\\20241213180230_mh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\data\\migrations\\20241213180230_mh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\data\\migrations\\20250105211553_addispublictocollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\data\\migrations\\20250105211553_addispublictocollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|c:\\users\\zidaroiu\\downloads\\hm_skincareapp5\\hm_skincareapp4\\hm_skincareapp3\\hm_skincareapp\\hm_skincareapp\\data\\migrations\\20250113012727_removem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8BBC6F-C89C-4C41-AACE-3B9CC403D94F}|HM_SkincareApp\\HM_SkincareApp.csproj|solutionrelative:hm_skincareapp\\data\\migrations\\20250113012727_removem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1099,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookmarksController.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Controllers\\BookmarksController.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Controllers\\BookmarksController.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Controllers\\BookmarksController.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Controllers\\BookmarksController.cs",
+              "ViewState": "AgIAAP0AAAAA0MzMzMwUwPYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:23:14.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "New.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Bookmarks\\New.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Bookmarks\\New.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Bookmarks\\New.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Bookmarks\\New.cshtml",
+              "ViewState": "AgIAABAAAAAANDMzMzMLwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T16:07:09.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGEAAADAMzMzMzMrwGUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T18:04:26.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:17:33.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Comments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Comments\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Comments\\Edit.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Comments\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T17:51:00.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAEwAAACAMzMzMzMpwHUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:29:18.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollectionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Controllers\\CollectionsController.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Controllers\\CollectionsController.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Controllers\\CollectionsController.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Controllers\\CollectionsController.cs",
+              "ViewState": "AgIAAA4AAABAZmZmZmYowEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:59:19.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Bookmarks\\Show.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Bookmarks\\Show.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Bookmarks\\Show.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Bookmarks\\Show.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T16:07:12.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PublicIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Users\\PublicIndex.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Users\\PublicIndex.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Users\\PublicIndex.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Users\\PublicIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T19:20:02.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Controllers\\CommentsController.cs",
+              "ViewState": "AgIAAEIAAACAzczMzMwmwDUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:29:35.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Summernote.js",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\wwwroot\\js\\Summernote.js",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\wwwroot\\js\\Summernote.js",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\wwwroot\\js\\Summernote.js",
+              "RelativeToolTip": "HM_SkincareApp\\wwwroot\\js\\Summernote.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-23T17:51:43.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Models\\SeedData.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Models\\SeedData.cs",
+              "ViewState": "AgIAABsAAABAmpmZmZklwE8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:22:51.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T17:36:56.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T17:37:15.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Program.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Program.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:13:02.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\appsettings.json",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\appsettings.json",
+              "RelativeToolTip": "HM_SkincareApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T14:00:24.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T20:15:13.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Bookmark.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Models\\Bookmark.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Models\\Bookmark.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Models\\Bookmark.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Models\\Bookmark.cs",
+              "ViewState": "AgIAAB8AAABgZmZmZmYmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:50:35.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:36:09.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeToolTip": "HM_SkincareApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ViewState": "AgIAAAABAAAAMDMzMzMrwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-13T14:56:18.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "HM_SkincareApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-13T14:56:04.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T16:03:02.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T20:19:25.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "HM_SkincareApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-13T14:55:45.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241211155552_m790.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20241211155552_m790.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Data\\Migrations\\20241211155552_m790.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20241211155552_m790.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Data\\Migrations\\20241211155552_m790.cs",
+              "ViewState": "AgIAADsAAAAgZmZmZmYuwFAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:48:32.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241211171825_jj.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20241211171825_jj.Designer.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Data\\Migrations\\20241211171825_jj.Designer.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20241211171825_jj.Designer.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Data\\Migrations\\20241211171825_jj.Designer.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAUwAMBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T13:27:39.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250105214926_UpdateApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20250105214926_UpdateApplicationUser.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Data\\Migrations\\20250105214926_UpdateApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20250105214926_UpdateApplicationUser.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Data\\Migrations\\20250105214926_UpdateApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T21:49:26.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "HM_SkincareApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-23T16:05:49.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "HM_SkincareApp\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-23T17:51:47.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T17:44:50.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "HM_SkincareApp\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-09T12:41:45.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Bookmarks\\Index.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Bookmarks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Bookmarks\\Index.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Bookmarks\\Index.cshtml",
+              "ViewState": "AgIAAHsAAAAAAAAAAABQPQkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T18:17:34.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Users\\Profile.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Users\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Users\\Profile.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Users\\Profile.cshtml",
+              "ViewState": "AgIAACkAAAAANDMzMzMbwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T17:28:23.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "20250113012727_RemoveM.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20250113012727_RemoveM.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Data\\Migrations\\20250113012727_RemoveM.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20250113012727_RemoveM.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Data\\Migrations\\20250113012727_RemoveM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T01:27:27.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T17:44:37.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Users\\Show.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Users\\Show.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Users\\Show.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Users\\Show.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T17:44:39.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EditProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Users\\EditProfile.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Users\\EditProfile.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Users\\EditProfile.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Users\\EditProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T11:18:49.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T17:50:04.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BookmarkInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Shared\\BookmarkInfo.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Shared\\BookmarkInfo.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Shared\\BookmarkInfo.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Shared\\BookmarkInfo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T17:50:05.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T17:50:43.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T17:28:08.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Labels\\Show.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Labels\\Show.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Labels\\Show.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Labels\\Show.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T16:08:05.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "New.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Labels\\New.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Labels\\New.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Labels\\New.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Labels\\New.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T17:50:49.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Labels\\Index.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Labels\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Labels\\Index.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Labels\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T16:07:34.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Labels\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Labels\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Labels\\Edit.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Labels\\Edit.cshtml",
+              "ViewState": "AgIAAAEAAABAMzMzMzMbwBQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T16:07:33.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T18:11:02.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T16:07:30.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Collections\\Show.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Collections\\Show.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Collections\\Show.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Collections\\Show.cshtml",
+              "ViewState": "AgIAACMAAACAMzMzMzMbwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T16:07:24.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "New.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Collections\\New.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Collections\\New.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Collections\\New.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Collections\\New.cshtml",
+              "ViewState": "AgIAAAEAAAAAMzMzMzMLwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T16:07:27.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Collections\\Index.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Collections\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Collections\\Index.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Collections\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T16:07:20.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Bookmarks\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Views\\Bookmarks\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Views\\Bookmarks\\Edit.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Views\\Bookmarks\\Edit.cshtml",
+              "ViewState": "AgIAACgAAAAAMzMzMzMLwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T18:16:52.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LabelsController.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Controllers\\LabelsController.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Controllers\\LabelsController.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Controllers\\LabelsController.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Controllers\\LabelsController.cs",
+              "ViewState": "AgIAAH0AAACAMzMzMzMtwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:29:24.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:21:39.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T16:49:26.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T12:41:45.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ForgotPasswordConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ViewState": "AgIAAA4AAAAAMzMzMzMrwAkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T12:50:38.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAF0AAAAwMzMzMzMrwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T12:48:13.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T17:47:03.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Label.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Models\\Label.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Models\\Label.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Models\\Label.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Models\\Label.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:22:20.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:36:07.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Models\\Comment.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Models\\Comment.cs",
+              "ViewState": "AgIAABUAAADAzMzMzMwcwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:22:13.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Collection.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Models\\Collection.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Models\\Collection.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Models\\Collection.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Models\\Collection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:22:06.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "BookmarkCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Models\\BookmarkCollection.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Models\\BookmarkCollection.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Models\\BookmarkCollection.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Models\\BookmarkCollection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:21:53.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "dbo.Comments.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_ArticlesApp_78b86796_c4b5_41d0_8bfa_b2fe2e27cf17/True/SqlTable/dbo.Comments.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_ArticlesApp_78b86796_c4b5_41d0_8bfa_b2fe2e27cf17/True/SqlTable/dbo.Comments.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-12T13:33:04.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ForgotPasswordConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:50:38.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:48:12.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:41:44.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\OneDrive\\Desktop\\ArticlesAppLab10\\ArticlesApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Horia\\OneDrive\\Desktop\\ArticlesAppLab10\\ArticlesApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Horia\\OneDrive\\Desktop\\ArticlesAppLab10\\ArticlesApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Horia\\OneDrive\\Desktop\\ArticlesAppLab10\\ArticlesApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:09:32.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "dbo.BookmarkCollections.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_HM_SkincareApp_5fa70234_bd03_41cf_8f15_d3f4e350537d/True/SqlTable/dbo.BookmarkCollections.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_HM_SkincareApp_5fa70234_bd03_41cf_8f15_d3f4e350537d/True/SqlTable/dbo.BookmarkCollections.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-07T20:18:53.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "dbo.Collections.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_HM_SkincareApp_5fa70234_bd03_41cf_8f15_d3f4e350537d/True/SqlTable/dbo.Collections.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_HM_SkincareApp_5fa70234_bd03_41cf_8f15_d3f4e350537d/True/SqlTable/dbo.Collections.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-07T20:19:10.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "dbo.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_HM_SkincareApp_5fa70234_bd03_41cf_8f15_d3f4e350537d/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_HM_SkincareApp_5fa70234_bd03_41cf_8f15_d3f4e350537d/True/SqlTable/dbo.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-06T11:51:01.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "dbo.AspNetUserTokens.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_HM_SkincareApp_5fa70234_bd03_41cf_8f15_d3f4e350537d/True/SqlTable/dbo.AspNetUserTokens.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_HM_SkincareApp_5fa70234_bd03_41cf_8f15_d3f4e350537d/True/SqlTable/dbo.AspNetUserTokens.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-06T11:52:44.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "dbo.AspNetUserRoles.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_HM_SkincareApp_5fa70234_bd03_41cf_8f15_d3f4e350537d/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_HM_SkincareApp_5fa70234_bd03_41cf_8f15_d3f4e350537d/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-06T11:52:19.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "20250105211553_AddIsPublicToCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20250105211553_AddIsPublicToCollection.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Data\\Migrations\\20250105211553_AddIsPublicToCollection.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20250105211553_AddIsPublicToCollection.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Data\\Migrations\\20250105211553_AddIsPublicToCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T21:15:54.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAB4AAAAAmZmZmZknwJEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:49:40.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "background.jpg -  [English (United States)] - Bitmap [2560x987, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\wwwroot\\Images\\background.jpg",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\wwwroot\\Images\\background.jpg",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\wwwroot\\Images\\background.jpg -  [English (United States)] - Bitmap [2560x987, 24 bit, JPG]",
+              "RelativeToolTip": "HM_SkincareApp\\wwwroot\\Images\\background.jpg -  [English (United States)] - Bitmap [2560x987, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-23T16:50:56.592Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [2560x987, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Like.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Models\\Like.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Models\\Like.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Models\\Like.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Models\\Like.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:22:29.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:22:42.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20241223190637_mh11.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\OneDrive\\Desktop\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20241223190637_mh11.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Horia\\OneDrive\\Desktop\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20241223190637_mh11.cs",
+              "ToolTip": "C:\\Users\\Horia\\OneDrive\\Desktop\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20241223190637_mh11.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Horia\\OneDrive\\Desktop\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20241223190637_mh11.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:06:37.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20241223190304_mh1.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\OneDrive\\Desktop\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20241223190304_mh1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Horia\\OneDrive\\Desktop\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20241223190304_mh1.cs",
+              "ToolTip": "C:\\Users\\Horia\\OneDrive\\Desktop\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20241223190304_mh1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Horia\\OneDrive\\Desktop\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20241223190304_mh1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:03:04.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "dbo.Bookmarks.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_HM_SkincareApp_5fa70234_bd03_41cf_8f15_d3f4e350537d/True/SqlTable/dbo.Bookmarks.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_HM_SkincareApp_5fa70234_bd03_41cf_8f15_d3f4e350537d/True/SqlTable/dbo.Bookmarks.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-23T19:01:23.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "background1.JPG - Bitmap [2560x987, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\wwwroot\\Images\\background1.JPG",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\wwwroot\\Images\\background1.JPG",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\wwwroot\\Images\\background1.JPG - Bitmap [2560x987, 24 bit, JPG]",
+              "RelativeToolTip": "HM_SkincareApp\\wwwroot\\Images\\background1.JPG - Bitmap [2560x987, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-23T17:06:58.033Z",
+              "EditorCaption": " - Bitmap [2560x987, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "jquery.js",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "HM_SkincareApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-23T16:11:31.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "HM_SkincareApp",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\HM_SkincareApp.csproj",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\HM_SkincareApp.csproj",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\HM_SkincareApp.csproj",
+              "RelativeToolTip": "HM_SkincareApp\\HM_SkincareApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T16:05:36.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "20241213180230_MH.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20241213180230_MH.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Data\\Migrations\\20241213180230_MH.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20241213180230_MH.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Data\\Migrations\\20241213180230_MH.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:02:30.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "00000000000000_CreateIdentitySchema.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:22:26.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "20241211171825_jj.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20241211171825_jj.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Data\\Migrations\\20241211171825_jj.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\20241211171825_jj.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Data\\Migrations\\20241211171825_jj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:48:39.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "HM_SkincareApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\Zidaroiu\\Downloads\\HM_SkincareApp5\\HM_SkincareApp4\\HM_SkincareApp3\\HM_SkincareApp\\HM_SkincareApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "HM_SkincareApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAYwEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:48:28.46Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

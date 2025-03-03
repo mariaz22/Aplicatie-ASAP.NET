@@ -1,0 +1,36 @@
+﻿@model HM_SkincareApp.Models.Collection
+
+<br />
+
+<h2 class= "mb-5 text-center">Add Collection</h2>
+
+<br />
+
+
+@using (Html.BeginForm(actionName: "New", controllerName: "Collections", method: FormMethod.Post))
+{
+
+    @Html.Label("Name", "Collection name")
+        <br />
+
+    @Html.TextBox("Name", null, new { @class = "form-control" })
+
+    @Html.ValidationMessageFor(m => m.Name, null, new { @class = "text-danger" })
+        <br />
+        <br />
+
+    @Html.Label("Visibility", "Select Visibility")
+    <div>
+        <label>
+            @Html.RadioButtonFor(m => m.IsPublic, true) Public
+        </label>
+        <label>
+            @Html.RadioButtonFor(m => m.IsPublic, false) Private
+        </label>
+    </div>
+    <br />
+
+    <button class="btn btn-success" type="submit">Add collection</button>
+
+}
+

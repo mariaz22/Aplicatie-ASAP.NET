@@ -1,0 +1,34 @@
+﻿@model HM_SkincareApp.Models.Bookmark
+
+
+<style>
+
+    .btn-like {
+        background-color: #5cb5e1; 
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    .like-count {
+        color: #5cb5e1; 
+        margin: 0;
+    }
+</style>
+
+
+
+
+
+<div class="card-content">
+    <a href="/Bookmarks/Show/@Model.Id" class="card-link">@Html.Raw(Model.Description)</a>
+    <div class="row">
+        <div class="col title-column">
+           
+            <h5 class="card-title">@Model.Title</h5>
+        </div>
+
+
+    </div>
+</div>

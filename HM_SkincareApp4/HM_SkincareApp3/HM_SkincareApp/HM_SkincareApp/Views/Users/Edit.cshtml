@@ -1,0 +1,75 @@
+﻿@model HM_SkincareApp.Models.ApplicationUser
+
+
+
+@using (Html.BeginForm(actionName: "Edit", controllerName: "Users",
+       method: FormMethod.Post, routeValues: new { id = @Model.Id }))
+{
+
+    <i class="bi bi-person"></i>
+    @Html.Label("UserName", "User name", new { @class = "" })
+
+    <br />
+
+    @Html.EditorFor(m => m.UserName)
+
+    <br />
+
+    <i class="bi bi-envelope"></i>
+    @Html.Label("Email", "User email", new { @class = "" })
+
+    <br />
+
+    @Html.EditorFor(m => m.Email)
+
+    <br />
+
+    <i class="bi bi-phone"></i>
+    @Html.Label("PhoneNumber", "Phone number")
+
+    <br />
+
+    @Html.EditorFor(m => m.PhoneNumber)
+
+    <br />
+
+    <i class="bi bi-person"></i>
+    @Html.Label("FirstName", "User first name", new { @class = "" })
+
+    <br />
+
+    @Html.EditorFor(m => m.FirstName)
+
+    <br />
+
+    <i class="bi bi-person"></i>
+    @Html.Label("LastName", "User last name", new { @class = "" })
+
+    <br />
+
+    @Html.EditorFor(m => m.LastName)
+
+    <br />
+
+    <i class="bi bi-card-list"></i>
+    <label>Select the role</label>
+    @Html.DropDownList("newRole", new SelectList(Model.AllRoles, "Value", "Text", ViewBag.UserRole), null, new { @class = "form-control" })
+
+    <br />
+
+    <i class="bi bi-info-circle"></i>
+    @Html.Label("About", "User description")
+    <br />
+    @Html.TextAreaFor(m => m.About, new { @class = "form-control", rows = 3 }) 
+    <br />
+
+    <i class="bi bi-image"></i>
+    @Html.Label("Profile Picture", "Profile picture URL")
+    <br />
+    @Html.TextBoxFor(m => m.ProfilePictureUrl, new { @class = "form-control" }) 
+    <br />
+
+    <button class="btn btn-sm btn-success" type="submit">Edit user</button>
+
+
+}

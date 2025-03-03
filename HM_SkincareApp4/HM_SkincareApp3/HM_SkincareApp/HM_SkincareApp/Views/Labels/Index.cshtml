@@ -1,0 +1,43 @@
+﻿
+
+
+@{
+    ViewBag.Title = "Labels list";
+}
+<br />
+<h2 class="text-center">@ViewBag.Title</h2>
+<br />
+
+@if (TempData.ContainsKey("message"))
+{
+    <h1>@ViewBag.message</h1>
+}
+
+<br />
+@if (User.IsInRole("Admin"))
+{
+    <div class="align-items-center justify-content-center d-flex">
+        <a class="btn btn-success" style="background-color: #5cb5e1" href="/Labels/New">Add a new label</a>
+
+    </div>
+}
+<br />
+
+
+@foreach (var label in ViewBag.Labels)
+{
+   
+    <p>@label.Name</p>
+    <a class="btn btn-success" href="/Labels/Show/@label.Id">Show label</a>
+
+    @if (User.IsInRole("Admin"))
+    {
+        <a class="btn btn-success" href="/Labels/Edit/@label.Id">Edit label</a>
+    }
+    <br />
+    <hr />
+    <br />
+}
+<br />
+
+

@@ -1,0 +1,195 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<style>
+
+     .row {
+        display: flex;
+        flex-wrap: wrap; 
+        gap: 10px; 
+        justify-content: center;
+    }
+
+    .card {
+        flex: 1 1 250px;
+        max-width: 100%;
+        overflow: hidden; 
+        margin-bottom: 15px; 
+    }
+
+        .card video {
+			width: 100%; 
+			height: auto; 
+            max-height: 150px; 
+            object-fit: cover; 
+            margin-bottom: 10px; 
+        }
+
+
+     
+
+
+    .filter-text {
+        font-size: 16px;
+        font-weight: bold;
+        color: #007bff;
+        margin-right: 10px;
+    }
+
+    .btn-group a {
+        text-transform: uppercase;
+        font-weight: bold;
+        border-radius: 5px;
+        padding: 8px 16px;
+        margin: 0 5px;
+        font-size: 14px;
+    }
+
+    .btn-group a.btn-primary {
+         background-color: #007bff; 
+         border-color: #007bff;
+         color: white;
+    }
+
+    .btn-group a.btn-secondary {
+         background-color: #f8f9fa; 
+         border-color: #ced4da; 
+         color: #6c757d; 
+    }
+
+    .btn-group a.btn-secondary:hover {
+         background-color: #e2e6ea; 
+         color: #343a40; 
+    }
+
+    .btn-group a.btn-primary:hover {
+         background-color: #0056b3; 
+    }
+
+
+    .like-column, .nrlike-column {
+        flex-shrink: 0;
+        margin-left: 10px;
+    }
+
+    .card-container {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+
+    .btn-like {
+        background-color: #5cb5e1; 
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-left: 10px;
+        padding: 5px 10px;
+    }
+
+    .like-count {
+        color: #5cb5e1; 
+        padding-left: 10px;
+    }
+
+    .categ {
+        color: #5cb5e1; 
+        padding: 10px;
+    }
+</style>
+
+
+<br />
+<form method="GET">
+    <div class="input-group mb-3">
+        <input type="text" class="form-control" placeholder="Search Bookmarks by Title, Label, or Comments" name="search" value="@ViewBag.SearchString">
+        <button class="btn btn btn-success"
+                type="submit">
+            Search
+        </button>
+    </div>
+
+    <div class="btn-group mb-3" role="group" aria-label="Filter">
+        <p class=" filter-text" >Choose the boobmark sorting method:</p>
+        <a href="/Bookmarks/Index?filter=recent" class="btn @((ViewBag.Filter == "recent") ? "btn-primary" : "btn-secondary")">Recent</a>
+        <a href="/Bookmarks/Index?filter=popular" class="btn @((ViewBag.Filter == "popular") ? "btn-primary" : "btn-secondary")">Popular</a>
+    </div>
+
+</form>
+<br />
+
+@if (TempData["message"] != null)
+{
+    <div class="alert @ViewBag.Alert p-3 rounded-3 text-center mb-5">
+        @ViewBag.Message
+    </div>
+}
+
+<br />
+<div class="row">
+    @foreach (HM_SkincareApp.Models.Bookmark bookmark in ViewBag.Bookmarks)
+    {
+        <div class="col-3 mb-4">
+
+
+            <div class="card" style="width:100%">
+
+                @Html.Partial("BookmarkInfo", bookmark)
+
+                <div class="card-container">
+
+                    <form method="post" asp-action="AddLike" asp-route-id="@bookmark.Id">
+                        <button type="submit" class="btn-like">
+                            <i class="bi bi-heart-fill" style="color:white"></i>
+                        </button>
+                    </form>
+
+                    <div class="col nrlike-column">
+                        @if (bookmark.Likes != null)
+                        {
+                            <p class="like-count">@bookmark.Likes.Count()</p>
+                        }
+                        else
+                        {
+                            <p class="like-count">0</p>
+                        }
+                    </div>
+                    <div class="categ">
+                        <div><i class="bi bi-tag"></i> @bookmark.Label.Name</div>
+                    </div>
+
+
+                </div>
+
+            </div>
+
+        </div>
+    }
+</div>
+
+
+
+<div>
+    <nav aria-label="Page navigation example">
+        <ul class="pagination">
+            <li class="page-item">
+                <a class="page-link" href="/Bookmarks/Index?page=1" aria-label="Previous">
+                    <span aria-hidden="true">&laquo;</span>
+                </a>
+            </li>
+            @for (int i = 1; i <= ViewBag.lastPage; i++)
+            {
+                <li class="page-item">
+                    <a class="page-link" href="/Bookmarks/Index?page=@i">@(i)</a>
+                </li>
+            }
+            <li class="page-item">
+                <a class="page-link" href="/Bookmarks/Index?page=@(ViewBag.lastPage)" aria-label="Next">
+
+                    <span aria-hidden="true">&raquo;</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</div>

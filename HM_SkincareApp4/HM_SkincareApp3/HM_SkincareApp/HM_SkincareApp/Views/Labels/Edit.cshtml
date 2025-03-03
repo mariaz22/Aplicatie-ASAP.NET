@@ -1,0 +1,26 @@
+﻿@model HM_SkincareApp.Models.Label
+
+
+@{
+    ViewBag.Title = "Edit label";
+}
+
+<h2>@ViewBag.Title</h2>
+
+
+    @using (Html.BeginForm(controllerName: "Labels", actionName: "Edit", method: FormMethod.Post,
+                        routeValues: new { id = Model.Id }))
+    {
+    @Html.Label("Name", "Label name")
+        <br />
+        @Html.Editor("Name")
+
+        @Html.ValidationMessageFor(m => m.Name, null, new { @class = "text-danger" })
+        <br />
+
+        <br />
+
+    <button class="btn btn-success" type="submit">Modify label</button>
+    }
+
+

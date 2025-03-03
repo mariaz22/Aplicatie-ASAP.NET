@@ -1,0 +1,27 @@
+﻿@model HM_SkincareApp.Models.Label
+
+
+@{
+    ViewBag.Title = "Add label";
+}
+
+
+<h2>Add label</h2>
+
+@using (Html.BeginForm(actionName: "New", controllerName: "Labels", method: FormMethod.Post))
+{
+
+    @Html.Label("Name", "Label name")
+    <br />
+
+    @Html.TextBox("Name", null, new { @class = "form-control" })
+
+    @Html.ValidationMessageFor(m => m.Name, null, new { @class = "text-danger" })
+    <br />
+
+    <br />
+
+    <button class="btn btn-success" type="submit">Add label</button>
+
+}
+

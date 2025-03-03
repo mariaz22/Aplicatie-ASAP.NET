@@ -1,0 +1,91 @@
+﻿<br />
+<br />
+
+<div class="row">
+    @foreach (var user in ViewBag.UsersList)
+    {
+        <div class="col-4 mb-4">
+            <div class="card" style="height:100%; width: 100%;">
+
+                <div class="card-body d-flex justify-content-between flex-column">
+                    <div>
+                        <p><i class="bi bi-person"> </i> UserName: @user.UserName</p>
+
+                        <p><i class="bi bi-envelope"></i> User email: @user.Email</p>
+
+
+                        @if (@user.FirstName != null)
+                        {
+                            <p><i class="bi bi-person"> </i> User first name: @user.FirstName</p>
+                        }
+
+
+                        @if (@user.LastName != null)
+                        {
+                            <p><i class="bi bi-person"> </i> User last name: @user.LastName</p>
+                        }
+
+
+                        @if (@user.PhoneNumber != null)
+                        {
+                            <p><i class="bi bi-phone"></i> User phone : @user.PhoneNumber</p>
+                        }
+
+                        @if (!string.IsNullOrEmpty(user.About))
+
+                        {
+                            <p><strong>About:</strong> @user.About</p>
+                        }
+
+                        @if (!string.IsNullOrEmpty(user.ProfilePictureUrl))
+
+                        {
+                            <img src="@user.ProfilePictureUrl" alt="Profile Picture" style="width: 50px; height: 50px; border-radius: 50%;" />
+                        }
+
+                        else
+
+                        {
+                            <img src="~/images/default-profile.png" alt="No Picture" style="width: 50px; height: 50px; border-radius: 50%;" />
+                        }
+
+                        @if (user.Collections != null && user.Collections.Count > 0)
+
+
+
+                        {
+                            foreach (var collection in user.Collections)
+                            {
+                                <p>
+                                    <a class="btn btn-sm btn-success" href="@Url.Action("Show", "Collections", new { id = collection.Id })">@collection.Name</a>
+                                </p>
+                            }
+
+                        }
+
+
+
+                        else
+
+                        {
+                            <p>(The user has no collections.)</p>
+                        }
+
+                    </div>
+                    <div class="d-flex flex-row justify-content-between p-3">
+
+                        <div> <a class="btn btn-sm btn-success" href="/Users/Edit/@user.Id"> Edit user</a> </div>
+
+                        <div> <a class="btn btn-sm btn-success" href="/Users/Show/@user.Id"> View user</a> </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    }
+
+</div>
+
+<br />
+<br />

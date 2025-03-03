@@ -1,0 +1,167 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HM_SkincareApp
+build_property.RootNamespace = HM_SkincareApp
+build_property.ProjectDir = C:\Users\Zidaroiu\Downloads\HM_SkincareApp5\HM_SkincareApp4\HM_SkincareApp3\HM_SkincareApp\HM_SkincareApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Zidaroiu\Downloads\HM_SkincareApp5\HM_SkincareApp4\HM_SkincareApp3\HM_SkincareApp\HM_SkincareApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Bookmarks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va21hcmtzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Bookmarks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va21hcmtzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Bookmarks/New.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va21hcmtzXE5ldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Bookmarks/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va21hcmtzXFNob3cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Collections/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Collections/New.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvbnNcTmV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Collections/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvbnNcU2hvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Comments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Labels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiZWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Labels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiZWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Labels/New.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiZWxzXE5ldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Labels/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiZWxzXFNob3cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Shared/BookmarkInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEJvb2ttYXJrSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Users/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdFByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Users/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Users/PublicIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcUHVibGljSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Users/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcU2hvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zidaroiu/Downloads/HM_SkincareApp5/HM_SkincareApp4/HM_SkincareApp3/HM_SkincareApp/HM_SkincareApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2d7rvy4cts

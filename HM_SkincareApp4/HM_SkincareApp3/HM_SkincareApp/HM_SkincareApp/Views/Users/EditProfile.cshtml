@@ -1,0 +1,41 @@
+﻿@model HM_SkincareApp.Models.ApplicationUser
+
+<h2>Edit Profile</h2>
+
+@using (Html.BeginForm(actionName: "EditProfile", controllerName: "Users", method: FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.Id)
+
+    <i class="bi bi-person"></i>
+    @Html.LabelFor(m => m.FirstName, "First Name")
+    <br />
+    @Html.EditorFor(m => m.FirstName, new { htmlAttributes = new { @class = "form-control" } })
+    <br />
+
+    <i class="bi bi-person"></i>
+    @Html.LabelFor(m => m.LastName, "Last Name")
+    <br />
+    @Html.EditorFor(m => m.LastName, new { htmlAttributes = new { @class = "form-control" } })
+    <br />
+
+    <i class="bi bi-phone"></i>
+    @Html.LabelFor(m => m.PhoneNumber, "Phone Number")
+    <br />
+    @Html.EditorFor(m => m.PhoneNumber, new { htmlAttributes = new { @class = "form-control" } })
+    <br />
+
+    <i class="bi bi-info-circle"></i>
+    @Html.LabelFor(m => m.About, "About")
+    <br />
+    @Html.TextAreaFor(m => m.About, new { @class = "form-control", rows = 3 })
+    <br />
+
+    <i class="bi bi-image"></i>
+    @Html.LabelFor(m => m.ProfilePictureUrl, "Profile Picture URL")
+    <br />
+    @Html.TextBoxFor(m => m.ProfilePictureUrl, new { @class = "form-control" })
+    <br />
+
+    <button class="btn btn-success" type="submit">Save Changes</button>
+}
+

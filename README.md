@@ -28,7 +28,6 @@ Technologies Used
 
     Additional Technologies:
         RESTful APIs – Fetch skincare product details from external sources.
-        Cloud Storage (Azure Blob Storage) – For saving product images.
         Logging & Monitoring – Serilog for tracking user activity and errors.
 ![image](https://github.com/user-attachments/assets/79b8aebf-89ad-4989-97df-65837580e350)
 
